@@ -1,4 +1,4 @@
-# CSE115
+# CSE115 - Remember Me Python sub-branch
 UCSC CSE 115 Introduction to Software Engineering Class 2020-2021
 
 
